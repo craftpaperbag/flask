@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: /app
     environment:
-      PROJECT_NAME: flask
+      PROJECT_NAME: acoustic-shade-238205
       CLUSTER_NAME: flask-kluster
       CLOUDSDK_COMPUTE_ZONE: asia-northeast1-a
       DEBIAN_FRONTEND: noninteractive
